@@ -25,6 +25,7 @@ Please take a quick gander at the [contribution guidelines](./CONTRIBUTING.md) f
         - [Designs.AI](#DesignsAI)
         - [Runway](#Runway)
         - [Copy.ai](#CopyAI)
+        - [Smodin](#Smodin)
         - [PromptBase](#PromptBase)
 
 **[⬆ back to top](#contents)**
@@ -42,4 +43,5 @@ Name | Category | Snapshot | Reasons For Recommendation | Disadvantages
 <a id="DesignsAI" href="https://designs.ai/">![Designs.AI](./images/designs.ai-logo.webp)</a> | AIGC | ![Designs.AI](./images/designs.ai.png) | <ul><li>Create logos, videos, banners, mockups with A.I. in 2 minutes</li><li>We can try their products for 30 days.</li></ul> |
 <a id="Runway" href="https://runwayml.com/">![Runway](./images/runway-logo.svg)</a> | AIGC | ![Designs.AI](./images/runway.png) | <ul><li>Runway is a new kind of creative suite. One where AI is a collaborator and anything you can imagine can be created.</li><li>Full suite of 30+ AI Magic Tools that make it easier than ever to ideate, iterate and generate content.</li></ul> |
 <a id="CopyAI" href="https://www.copy.ai/">![copy.ai](./images/copy.ai.svg)</a> | Copywriting | ![Designs.AI](./images/copy.ai.png) | <ul><li>Generate High-Quality Posts in Minutes.</li><li>Write high-converting emails in minutes.</li><li>Create Social Posts in Minutes.</li></ul> |
+<a id="Smodin" href="https://smodin.io/">![Smodin](./images/smodin-logo.svg)Smodin</a> | Writing | ![Smodin](./images/smodin.png) | <ul><li>Write Essays with just 5 words using our AI powered tool.</li><li>Everyday applications used by millions of students, writers, and internet workers across the globe including a text rewriter, plagiarism checker, auto citation machine, and a multi-lingual translator. Enhance your writing with Smodin.</li></ul> |
 <a id="PromptBase" href="https://promptbase.com/">![PromptBase](./images/promptbase-logo.png)PromptBase</a> | Prompt Marketplace | ![PromptBase](./images/promptbase.png) | <ul><li>DALL·E, GPT, Midjourney, Stable Diffusion, ChatGPT Prompt Marketplace</li><li>Find top prompts, produce better results, save on API costs, sell your own prompts.</li></ul> | <ul><li>Only Stripe accounts are supported for payments.</li></ul>
